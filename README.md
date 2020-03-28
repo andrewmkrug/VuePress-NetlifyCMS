@@ -8,7 +8,7 @@ title: README
 > A vuepress site hosted with Netlify CMS.
 
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DemoMacro/VuePress-NetlifyCMS/)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/andrewmkrug/VuePress-NetlifyCMS/)
 
 ### Quick Start
 
